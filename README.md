@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Safari-cell
-- 👀 I’m interested in ...
+- 👀 I’m interested in games
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me idk
